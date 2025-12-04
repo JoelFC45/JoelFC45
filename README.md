@@ -24,6 +24,6 @@ Me chamo Joel Felipe Costa, sou um desenvolvedor freelancer full-stack. Atualmen
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)/>
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelFC45)](https://github.com/JoelFC45/github-readme-stats)/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFC45&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
